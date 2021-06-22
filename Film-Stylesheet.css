@@ -1,0 +1,18 @@
+body {color: white;
+background-color: black;}
+
+header {text-align: center;}
+
+/* #movieDataBase {
+    display: grid;
+    max-height: 100vh;
+    margin: auto;
+    max-width: 375px;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 30px 360px 115px 115px 30px;
+    grid-template-areas:
+    " t t t t t t t t t t t t "
+    " m m m m m m m m m m m m "
+    " m m m m m m m m m m m m "
+    " m m m m m m m m m m m m "
+    " f f f f f f f f f f f f ";} */
